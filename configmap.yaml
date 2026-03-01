@@ -10,7 +10,7 @@ data:
         <title>Hello</title>
     </head>
     <body style="background-color:black; text-align:center; margin-top:20%;">
-        <h1 style="color:red; font-size:60px;">
+        <h1 style="color:blue; font-size:60px;">
             HELLO WORLD
         </h1>
     </body>
